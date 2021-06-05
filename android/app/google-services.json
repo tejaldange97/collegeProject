@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "215676039421",
+    "project_id": "fir-mob-auth-891bd",
+    "storage_bucket": "fir-mob-auth-891bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:215676039421:android:55d4281c0b0555b6728e94",
+        "android_client_info": {
+          "package_name": "com.dabewala"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "215676039421-je8jdkk11nabtkjkfbl6pu073slf1str.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMuZCdqFUBiQ9JyO5oGwL8gnZY-cnSRk0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "215676039421-je8jdkk11nabtkjkfbl6pu073slf1str.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
